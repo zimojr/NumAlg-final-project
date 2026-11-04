@@ -1,6 +1,5 @@
 # NumAlg-final-project
 Final project for the subject Numerical Algorithms
-keksz
 
 A 3D graphics engine
 
